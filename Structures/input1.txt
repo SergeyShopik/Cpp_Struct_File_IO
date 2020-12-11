@@ -1,0 +1,8 @@
+Smith 4  456345   5 3 4 
+Shopik  4  456348   4 3 4
+Martinez  5 456340   5 3 5
+White  5 456349   4 5 4
+Pinkman 4 456352 3 5 5
+Potter 5 456355 5 3 4
+Kane 4 456351 5 5 5
+Payne 5 456360 3 2 3

@@ -1,0 +1,7 @@
+double avGrade = 0;
+	size_t size = sizeof(st.marks) / sizeof(size_t);
+	for (size_t i = 0; i < size; i++)
+	{
+		avGrade += st.marks[i];
+	}
+	return avGrade /= size;
